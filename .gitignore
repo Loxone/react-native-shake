@@ -62,7 +62,6 @@ buck-out/
 /ios/Pods/
 
 # Library
-lib/
 *.tgz
 
 # Locks
